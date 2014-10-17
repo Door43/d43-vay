@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vay:home|Door43 (vay)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vay|d43-vay repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vay/archive/master.zip|d43-vay.zip]]
+
+**Recent Changes**
+{{changes>ns = vay}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vay|Ethnologue data]]
+
